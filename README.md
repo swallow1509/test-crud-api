@@ -1,4 +1,4 @@
-# Simple CRUD API in Golang
+# CRUD API in Golang
 
 * Prerequisites:
     * gorilla/mux
